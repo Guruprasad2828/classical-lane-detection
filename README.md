@@ -90,27 +90,10 @@ The project includes intermediate visualizations such as:
 
 ---
 
-##  Technologies Used
+##  Frameworks Used
 - Python
 - OpenCV
 - NumPy
 - Matplotlib
 
 ---
-
-##  Project Structure
-```text
-classical-lane-detection/
-│
-├── images/                 # Input road images
-├── outputs/                # Pipeline stage outputs
-├── src/
-│   ├── preprocessing.py
-│   ├── edge_detection.py
-│   ├── roi.py
-│   ├── hough.py
-│   ├── ransac.py
-│   └── lane_detection.py
-│
-├── README.md
-└── requirements.txt
