@@ -7,6 +7,8 @@ The pipeline detects **left and right lane boundaries** in structured road envir
 
 ---
 
+## Dataset - https://www.kaggle.com/datasets/dataclusterlabs/lane-detection-road-line-detection-image-dataset?resource=download
+
 ##  Key Concepts Used
 - Color space transformations (HLS, HSV)
 - Image thresholding for lane isolation
